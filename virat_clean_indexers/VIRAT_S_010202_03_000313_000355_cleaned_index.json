@@ -1,0 +1,33 @@
+{
+    "metadata": {
+        "width": 1280,
+        "height": 720,
+        "fps": 23.97
+    },
+    "index": {
+        "car_only": {
+            "presence": [
+                [
+                    5,
+                    133
+                ]
+            ]
+        },
+        "car_person_only": {
+            "presence": [
+                [
+                    134,
+                    169
+                ]
+            ]
+        },
+        "person_only": {
+            "presence": [
+                [
+                    151,
+                    760
+                ]
+            ]
+        }
+    }
+}
